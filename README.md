@@ -1,4 +1,4 @@
-# async_storage_test
+# Async storage test
 A repo for try new technologies that I haven't tested before.
 
 ## Tech list
